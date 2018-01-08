@@ -25,16 +25,24 @@
         <module name="ActiveMQ" />
         <module name="BasicProgram" />
         <module name="concurrent" />
+        <module name="easypoi" />
+        <module name="GroovyLearn" />
+        <module name="JavaBasic1" />
+        <module name="JavaJiaGou" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActiveMQ" target="1.8" />
       <module name="BasicProgram" target="1.8" />
       <module name="concurrent" target="1.8" />
+      <module name="easypoi" target="1.8" />
       <module name="GradleLearn_main" target="1.7" />
       <module name="GradleLearn_test" target="1.7" />
       <module name="GradleTest_main" target="1.5" />
       <module name="GradleTest_test" target="1.5" />
+      <module name="GroovyLearn" target="1.8" />
+      <module name="JavaBasic1" target="1.8" />
+      <module name="JavaJiaGou" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

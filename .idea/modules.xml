@@ -7,7 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleLearn.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleLearn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleLearn_main.iml" group="GradleLearn" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleLearn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleLearn_test.iml" group="GradleLearn" />
+      <module fileurl="file://$PROJECT_DIR$/GroovyLearn/GroovyLearn.iml" filepath="$PROJECT_DIR$/GroovyLearn/GroovyLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic1/JavaBasic1.iml" filepath="$PROJECT_DIR$/JavaBasic1/JavaBasic1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaJiaGou/JavaJiaGou.iml" filepath="$PROJECT_DIR$/JavaJiaGou/JavaJiaGou.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrent/concurrent.iml" filepath="$PROJECT_DIR$/concurrent/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easypoi/easypoi.iml" filepath="$PROJECT_DIR$/easypoi/easypoi.iml" />
     </modules>
   </component>
 </project>

@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/BasicProgram/pom.xml" />
         <option value="$PROJECT_DIR$/concurrent/pom.xml" />
         <option value="$PROJECT_DIR$/ActiveMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/GroovyLearn/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaJiaGou/pom.xml" />
+        <option value="$PROJECT_DIR$/easypoi/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaBasic1/pom.xml" />
       </list>
     </option>
   </component>
